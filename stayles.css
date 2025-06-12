@@ -1,0 +1,32 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:green;
+}
+.form{
+    width: 300px;
+    height: 400px;
+    background-color:white;
+    padding: 30px;
+    text-align: center;
+    margin:50px;
+    border:none;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.btn{
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color:white;
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 5px;
+    align-items: center;
+}
+input{
+    margin-bottom: 10px;
+}
